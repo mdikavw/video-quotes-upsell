@@ -12,6 +12,7 @@
 
 <body>
     <?php include 'includes/headline.php'?>
+    <?php include 'includes/welcome.php'?>
     <script src="bootstrap-5.3.3-dist/js/bootstrap.min.js"></script>
 </body>
 
