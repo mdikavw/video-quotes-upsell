@@ -3,7 +3,7 @@
         <h4>
             <em>Upgrade to the <span class="text-warning">"EXTENDED Pack"</span></em>
         </h4>
-        <h1>
+        <h1 class="display-1 fw-bold">
             DOUBLE Your Package by Grabing This Fabulous Upgrade Pack with <span class="text-warning">"Un-Restricted"
                 PLR
                 License</span> to Make You Able to

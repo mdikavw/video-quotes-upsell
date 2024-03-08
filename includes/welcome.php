@@ -1,7 +1,7 @@
 <div class="py-5 px-2 px-lg-5">
     <div class="container-lg">
         <div class="row">
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-lg-6">
                 <p>
                     As my brand new valuable customer, I’d like to offer you an outrageous 45% discount for the
                     <strong>Adult
@@ -32,7 +32,7 @@
                     </li>
                 </ul>
             </div>
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-lg-6 text-center">
                 <img src="https://via.placeholder.com/500/FFC107" alt="" class="rounded-4">
             </div>
         </div>
